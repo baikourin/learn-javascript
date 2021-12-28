@@ -4,7 +4,7 @@
      The second layer of loop starts from the leftmost v[0] every time, and compares it with the element to the right of it.
  */
 
-let arr = [10, 9, 8, 7, 6, 5, 3, 4, 2, 1, 1, 3, 2, 3, 2];
+let arr = [10, 10, 9, 9, 8, 7, 6, 5, 3, 4, 2, 1, 1, 3, 2, 3, 2];
 
 function bubbleSort(arr){
     let temp;
